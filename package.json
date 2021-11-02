@@ -9,7 +9,7 @@
   "homepage": "https://github.com/nmccready/google-maps-utility-library-v3-markerwithlabel",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nmccready/google-maps-utility-library-v3-markerwithlabel.git"
+    "url": "git+https://github.com/nmccready/google-maps-utility-library-v3-markerwithlabel.git"
   },
   "author": "Gary Little (inspired by code from Marc Ridey of Google).",
   "contributors": [
